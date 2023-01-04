@@ -1,6 +1,2 @@
 #!/usr/bin/python3
-
-
-class Rectangle:
-    """Represent a rectangle."""
-    pass
+Rectangle = __import__('0-rectangle').Rectangle
