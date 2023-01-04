@@ -33,6 +33,9 @@ def get_solution(board):
 
 
 def xout(board, row, col):
+    """X out spots on a chessboard.
+
+    """
     # X out all forward spots
     for c in range(col + 1, len(board)):
         board[row][c] = "x"
