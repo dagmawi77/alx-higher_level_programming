@@ -1,2 +1,2 @@
 -- LIst All Tables
-SELECT TNAME FROM TAB;
+SHOW TABLE;
