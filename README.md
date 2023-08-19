@@ -6,7 +6,6 @@ understand all programing language concept with Python
 
 With different exercises
 
-Fix every exercise
 
 Other comment
 
