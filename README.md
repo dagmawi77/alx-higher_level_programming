@@ -4,8 +4,6 @@ all Python code
 
 understand all programing language concept with Python 
 
-With different exercises
-
 
 
 
